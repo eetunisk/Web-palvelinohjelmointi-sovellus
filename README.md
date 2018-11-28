@@ -22,7 +22,6 @@ Työn aikana asennettiin kirjastoja sovellusta varten. Niiden tiedostot:
 
 DOMPDF:
 vendor/barryvdf/laravel-dompdf/..
-vendor/dompdf/..
 
 FullCalendar:
 vendor/maddhatter/laravel-fullcalendar/..
